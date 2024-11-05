@@ -23,7 +23,7 @@ Un informe con la siguiente estructura:
 - *Autor*
 - *Resumen* (1 punto)
 - *Introducción* (2 punto) Presenta los resultados de la investigación y las especificaciones de los componentes a desarrollar.
-- *Materiales y Métodos* (2 puntos) Explica el proceso de diseño seguido para desarrollar componentes a nivel compuerta y a nivel transferencia de registros.
+- *Materiales y Métodos* (2 puntos) Explica el proceso seguido para describir un arreglo de memoria.
 - *Resultados* (2 puntos) Describe los resultados obtenidos. No es necesario duplicar el código vhdl, pero sí describir en forma general el contenido de cada archivo.
 - *Conclusiones* (2 puntos) Explica en tus palabras que es la descripción de hardware.
 - *Referencias* (1 punto) Debes utilizar citas bibliográficas durante el desarrollo siempre que emplees ideas tomadas de la bibliografía. Esta sección incluye las referencias bibliográficas correspondientes, en formato APA.
