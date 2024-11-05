@@ -4,7 +4,7 @@ Electrónica II para Ingeniería Electrónica. 2024
 
 ## Objetivos
 
-- Investigar sobre las tecnologías de memoria semiconductoras ROM de máscara, PROM, SRAM, DRAM, EEPROM y FLASH.
+- Investigar sobre las tecnologías de memoria semiconductoras ROM de máscara, PROM, EEPROM, FLASH, SRAM, y DRAM.
 - Investigar las aplicaciones de los arreglos de memoria en los sistemas de cómputo: conjuntos de registros, memoria cache, memoria principal y memoria de almacenamiento.
 - Describir los circuitos integrados lógicos programables Programmable Logic Array (PLA), Generic Array Logic (GAL) y Field Programmable Gate Array (FPGA). Indicar algunos ejemplos comerciales de cada uno con sus características básicas.
 - Consultar la documentación sobre los bloques de memoria disponibles en la familia de FPGA iCE40 de Lattice Semiconductor.
