@@ -10,7 +10,7 @@ Electrónica II para Ingeniería Electrónica. 2024
 - Consultar la documentación sobre los bloques de memoria disponibles en la familia de FPGA iCE40 de Lattice Semiconductor.
 - Describir en VHDL y evaluar mediante simulación las siguientes memorias:
   - Memoria RAM 512x8 bit con dos puertos sincrónicos, uno de lectura y uno de escritura.
-  - Memoria RAM de dos puertos de 256x32 bit donde el puerto de escritura permite de media palabra (16 bit) y byte (8 bit).
+  - Memoria RAM de dos puertos de 512x32 bit con máscara de escritura para cada bloque de 8 bit (byte).
   - Conjunto de registros de 32x32 bit de tres puertos, dos de lectura y uno de escritura.
 
 ## Entregables
