@@ -13,6 +13,8 @@ Electrónica II para Ingeniería Electrónica. 2024
   - Memoria RAM de dos puertos de 512x32 bit con máscara de escritura para cada bloque de 8 bit (byte).
   - Conjunto de registros de 32x32 bit de tres puertos, dos de lectura y uno de escritura.
 
+*Nota*: Las memorias descritas deben poder inicializarse desde archivos de datos conteniendo una palabra hexadecimal (escrita en ASCII) por línea
+
 ## Entregables
 
 Las descripciones de hardware y bancos de prueba realizados. Usar este repositorio como base y añadirlos dento del subdirectorio `src`.
